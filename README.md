@@ -45,7 +45,7 @@ requirements.txt
 
 ### Lateng Dirichlet Allocation Models
 
-- **Latent Dirichlet Allocation**: Train and test a LDA model using [`spark_code/lda.py`].
+- **Latent Dirichlet Allocation**: Train and test a LDA model using `spark_code/lda.py`.
     ```sh
     python spark_code/lda.py
     ```
